@@ -1,4 +1,4 @@
-1.What is var-args? Explain with Syntax
+1).What is var-args? Explain with Syntax
 -->The varrags allows the method to accept zero or muliple arguments. Before varargs either we use overloaded
   method or take an array as the method parameter but it was not considered good because it leads to the
   maintenance problem.
