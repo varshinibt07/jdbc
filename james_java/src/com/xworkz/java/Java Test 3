@@ -9,7 +9,7 @@
 2. What is blocks? Explain the types of Blocks
 -->Blocks are the set of statements used for initialization.
    Their are 2 types of blocks : *Static Block
-									*Non-Static Block
+								*Non-Static Block
 	Static Blocks : 
 	*SIB-Static Initializtion Block
 	*Static blocks are the set of statements used to initialize static variable.
