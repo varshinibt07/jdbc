@@ -11,10 +11,10 @@ public class ResortRunner {
 
 	public static void main(String[] args) {
 		ResortEntity resortentity = new ResortEntity();
-		resortentity.setId(1);
-		resortentity.setName("Mango Mist");
-		resortentity.setLocation("Kanakapura Road");
-		resortentity.setOwner("Nandhish");
+		resortentity.setId(3);
+		resortentity.setName("urban resort");
+		resortentity.setLocation("Tumkaur");
+		resortentity.setOwner("Swamy");
 		resortentity.setCheckInTime(LocalTime.of(12, 00));
 		resortentity.setCheckOutTime(LocalTime.of(11, 00));
 		resortentity.setCreateBy("om");
